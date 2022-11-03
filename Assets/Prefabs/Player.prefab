@@ -30,7 +30,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7270414986628097009}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2.3545141, y: 3.2315369, z: -4.6165476}
+  m_LocalPosition: {x: 0, y: 0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -131,6 +131,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   syncMode: 0
   syncInterval: 0.1
+  playerCamera: {fileID: 2920866058196775087, guid: 930392e48906ee74f805900256a6bf6d, type: 3}
 --- !u!114 &2641247725345041331
 MonoBehaviour:
   m_ObjectHideFlags: 0
